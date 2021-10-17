@@ -4,7 +4,7 @@
 - 🔭 Just finished a project as a Technical Project Manager with Family Promise Spokane's [Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a)
 - 🌱 I’m currently working on [AniMenu](https://github.com/AnimeProject) as a side project
 - 📝 I update my [LinkedIn](https://www.linkedin.com/in/michaelquintdev/) weekly so if you want a place to keep up with my work that is a great spot!
-- 🥅 My Primary Goals for the end of 2021: Land a job in development, and expand my technical prowess by learning mobile development
+- 🥅 My Primary Goals for the end of 2021: Expand my technical prowess by learning mobile development
 
 <br />
 
@@ -14,14 +14,9 @@
 <h3 align="left"> Connect with me:</h3>
 
 
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/michaelquintdev/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Kaggle" width="36px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" />][kaggle]
-
-
-[<img align="left" style="margin-right: 1.5rem" alt="Medium" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
-
-<a href="mailto:joshua.elamin.datasci@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:michaelquintdev@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
 
 
 
