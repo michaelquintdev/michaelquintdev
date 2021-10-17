@@ -4,7 +4,7 @@
 - 🔭 Just finished a project as a Technical Project Manager with Family Promise Spokane's [Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a)
 - 🌱 I’m currently working on [AniMenu](https://github.com/AnimeProject) as a side project
 - 📝 I update my [LinkedIn](https://www.linkedin.com/in/michaelquintdev/) weekly so if you want a place to keep up with my work that is a great spot!
-- 🥅 My Primary Goals for the end of 2021 are to land a job in development, and to expand my technical prowess in frontend technologies
+- 🥅 My Primary Goals for the end of 2021: Land a job in development, and expand my technical prowess by learning mobile development
 
 <br />
 
