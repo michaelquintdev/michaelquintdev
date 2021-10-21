@@ -15,7 +15,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🔭 Just finished a project as a Technical Project Manager with Family Promise Spokane's [Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a)
+- 🔭 Just finished a project as a Technical Project Manager on Family Promise Spokane's [Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a)
 - 🌱 I’m currently working on [AniMenu](https://github.com/AnimeProject) as a side project
 - 📝 I update my [LinkedIn](https://www.linkedin.com/in/michaelquintdev/) weekly so if you want a place to keep up with my work that is a great spot!
 - 🥅 My Primary Goals for the end of 2021: Expand my technical prowess by learning mobile development
