@@ -19,3 +19,10 @@
 - 🌱 I’m currently working on [AniMenu](https://github.com/AnimeProject) as a side project
 - 📝 I update my [LinkedIn](https://www.linkedin.com/in/michaelquintdev/) weekly so if you want a place to keep up with my work that is a great spot!
 - 🥅 My Primary Goals for the end of 2021: Expand my technical prowess by learning mobile development
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelquintdev&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="michael-quint" /></p>
+
+## Connect with me:
+
+[<img align="left" style="margin-left: 1.5rem" alt="Devin | LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/michaelquintdev/
