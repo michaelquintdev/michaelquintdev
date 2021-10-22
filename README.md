@@ -18,7 +18,7 @@
 - 🔭 Just finished a project as a Technical Project Manager on Family Promise Spokane's [Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a)
 - 🌱 I’m currently working on [AniMenu](https://github.com/AnimeProject) as a side project where I hope to use Material UI for styling
 - 📝 I update my [LinkedIn](https://www.linkedin.com/in/michaelquintdev/) weekly so if you want a place to keep up with my work that is a great spot!
-- 🥅 My Primary Goals for the end of 2021: Expand my technical prowess by learning mobile development
+- 🥅 Goal for 2022: Landing a job in development!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelquintdev&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="michael-quint" /></p>
 
