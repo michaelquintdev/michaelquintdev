@@ -16,7 +16,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 - 🔭 Just finished a project as a Technical Project Manager on Family Promise Spokane's [Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a)
-- 🌱 I’m currently working on [AniMenu](https://github.com/AnimeProject) as a side project where I hope to use Material UI for styling
+- 🌱 I’m currently working on [AniMenu](https://animenu.vercel.app/) as a side project where I hope to use Material UI for styling
 - 📝 I update my [LinkedIn](https://www.linkedin.com/in/michaelquintdev/) weekly so if you want a place to keep up with my work that is a great spot!
 - 🥅 Goal for 2022: Landing a job in development!
 
